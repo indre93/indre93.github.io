@@ -1,11 +1,11 @@
 # Site settings
 author: Indre Bakeer
-title: 
+title: My first project - CLI Data Gem Project 
 header-img: img/home-bg.png
 email: indre.bakeer@gmail.com
 copyright_name: Indre Bakeer
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Steps and description of my first CLI project
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  indre93
