@@ -20,16 +20,15 @@ Overall, the Rails portfolio project was my favorite so far and I look forward t
 
 **Welcome Page:**
 
-[Imgur](https://i.imgur.com/zRxmzn0.png)
-<a href="https://imgur.com/zRxmzn0"><img src="https://imgur.com/zRxmzn0.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/zRxmzn0.png"><img src="https://imgur.com/zRxmzn0.png" title="GymPage Welcome Page" /></a>
 
 **Log In Page:**
 
-<a href="https://imgur.com/l2kKSvV"><img src="https://imgur.com/l2kKSvV.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/l2kKSvV.png"><img src="https://imgur.com/l2kKSvV.png" title="GymPage Log In Page" /></a>
 
 **New Workout Page:**
 
-<a href="https://imgur.com/BjuF9EA"><img src="https://imgur.com/BjuF9EA.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/BjuF9EA.png"><img src="https://imgur.com/BjuF9EA.png" title="GymPage New Workout Page" /></a>
 
 
 
