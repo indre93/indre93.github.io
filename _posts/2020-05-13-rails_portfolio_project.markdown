@@ -20,7 +20,7 @@ Overall, the Rails portfolio project was my favorite so far and I look forward t
 
 **Welcome Page:**
 
-[img]https://i.imgur.com/zRxmzn0.png[/img]
+[Imgur](https://i.imgur.com/zRxmzn0.png)
 <a href="https://imgur.com/zRxmzn0"><img src="https://imgur.com/zRxmzn0.png" title="source: imgur.com" /></a>
 
 **Log In Page:**
