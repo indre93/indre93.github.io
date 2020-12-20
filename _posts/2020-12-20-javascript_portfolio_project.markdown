@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "JavaScript Portfolio Project"
-date:       2020-12-20 06:19:00 +0000
+title:      "JavaScript Project"
+date:       2020-12-20 01:19:01 -0500
 permalink:  javascript_portfolio_project
 ---
 
